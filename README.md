@@ -52,16 +52,6 @@ I don't just train models — I ship them. One autonomous agent, one benchmark r
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ManvithMadhuvarsu&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=ManvithMadhuvarsu&theme=dark&hide_border=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ManvithMadhuvarsu&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-
 ## 📈 GitHub Activity Graph
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ManvithMadhuvarsu&theme=github-dark&area=true&hide_border=true)
@@ -78,13 +68,3 @@ I don't just train models — I ship them. One autonomous agent, one benchmark r
 ### ✍️ Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=ManvithMadhuvarsu&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ManvithMadhuvarsu/ManvithMadhuvarsu/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ManvithMadhuvarsu/ManvithMadhuvarsu/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/ManvithMadhuvarsu/ManvithMadhuvarsu/output/github-snake.svg" />
-</picture>
